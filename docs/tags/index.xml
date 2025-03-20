@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iambaangkok.me | portfolio</title>
-    <link>https://iambaangkok.github.io/docs/tags/</link>
+    <link>https://iambaangkok.github.io/Portfolio/tags/</link>
     <description>Recent content in Tags on iambaangkok.me | portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iambaangkok.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iambaangkok.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Board-Game</title>
-      <link>https://iambaangkok.github.io/docs/tags/board-game/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/board-game/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/board-game/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/board-game/</guid>
       <description></description>
     </item>
     <item>
       <title>Pygame</title>
-      <link>https://iambaangkok.github.io/docs/tags/pygame/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/pygame/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/pygame/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/pygame/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://iambaangkok.github.io/docs/tags/python/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/python/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/python/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://iambaangkok.github.io/docs/tags/research/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/research/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/research/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Video-Game</title>
-      <link>https://iambaangkok.github.io/docs/tags/video-game/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/video-game/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/video-game/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/video-game/</guid>
       <description></description>
     </item>
     <item>
       <title>GameMakerStudio</title>
-      <link>https://iambaangkok.github.io/docs/tags/gamemakerstudio/</link>
+      <link>https://iambaangkok.github.io/Portfolio/tags/gamemakerstudio/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/docs/tags/gamemakerstudio/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/tags/gamemakerstudio/</guid>
       <description></description>
     </item>
   </channel>
