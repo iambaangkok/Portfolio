@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on iambaangkok.me | portfolio</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on iambaangkok.me | portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Board-Game</title>
+      <link>https://example.org/tags/board-game/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/board-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pygame</title>
+      <link>https://example.org/tags/pygame/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/pygame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://example.org/tags/python/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://example.org/tags/research/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video-Game</title>
+      <link>https://example.org/tags/video-game/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/video-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GameMakerStudio</title>
+      <link>https://example.org/tags/gamemakerstudio/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/gamemakerstudio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

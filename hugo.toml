@@ -1,0 +1,79 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'iambaangkok.me | portfolio'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'base16-eighties'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+iambaangkok is an ambitious programmer with a passion for creating great games.
+At **day**, I work as a backend software engineer.
+At **night**, I make games and boardgames, or learn about cool stuff, like shaders! (my current study).
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'My Games / Boardgames / etc.'
+homeCollection = 'my-games'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "me"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/user/"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@user"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/user"
+
+# Main menu pages
+[[params.menu]]
+name = "me"
+url = "/"
+
+[[params.menu]]
+name = "my-games"
+url = "/my-games"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
