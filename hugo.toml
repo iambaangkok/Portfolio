@@ -1,4 +1,4 @@
-baseURL = 'https://iambaangkok.github.io/Portfolio/'
+baseURL = 'https://iambaangkok.github.io/docs'
 languageCode = 'en-us'
 title = 'iambaangkok.me | portfolio'
 theme = 'typo'
