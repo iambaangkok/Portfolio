@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video-Game on iambaangkok.me | portfolio</title>
-    <link>https://iambaangkok.github.io/public/tags/video-game/</link>
+    <link>https://iambaangkok.github.io/Portfolio/tags/video-game/</link>
     <description>Recent content in Video-Game on iambaangkok.me | portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iambaangkok.github.io/public/tags/video-game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iambaangkok.github.io/Portfolio/tags/video-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RootAI</title>
-      <link>https://iambaangkok.github.io/public/my-games/rootai/</link>
+      <link>https://iambaangkok.github.io/Portfolio/my-games/rootai/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/public/my-games/rootai/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/my-games/rootai/</guid>
       <description>A non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame &amp;lsquo;Root.&amp;rsquo;</description>
     </item>
     <item>
       <title>Coolant!</title>
-      <link>https://iambaangkok.github.io/public/my-games/coolant/</link>
+      <link>https://iambaangkok.github.io/Portfolio/my-games/coolant/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://iambaangkok.github.io/public/my-games/coolant/</guid>
+      <guid>https://iambaangkok.github.io/Portfolio/my-games/coolant/</guid>
       <description>An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes.</description>
     </item>
   </channel>
