@@ -1,5 +1,5 @@
-# baseURL = 'https://iambaangkok.github.io/public' ## for local live server
-baseURL = 'https://iambaangkok.github.io/Portfolio' ## for deploy to github pages at /docs
+baseURL = 'https://iambaangkok.github.io/public' ## for local live server
+# baseURL = 'https://iambaangkok.github.io/Portfolio' ## for deploy to github pages at /docs
 languageCode = 'en-us'
 title = 'iambaangkok.me | portfolio'
 theme = 'typo'
