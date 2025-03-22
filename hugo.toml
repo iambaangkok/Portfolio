@@ -1,5 +1,5 @@
-baseURL = 'https://iambaangkok.github.io/public' ## for local live server
-# baseURL = 'https://iambaangkok.github.io/Portfolio' ## for deploy to github pages at /docs
+# baseURL = 'http://127.0.0.1:5500/public' ## for local live server
+baseURL = 'https://iambaangkok.github.io/Portfolio' ## for deploy to github pages at /docs
 languageCode = 'en-us'
 title = 'iambaangkok.me | portfolio'
 theme = 'typo'
@@ -12,7 +12,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "bk's portfolio"
 
 # Appearance settings
 theme = 'light'
@@ -40,7 +40,7 @@ listDateFormat = '2 Jan 2006'
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "me"
+home = "/me"
 
 # Social icons
 [[params.social]]
@@ -58,23 +58,26 @@ url = "https://github.com/user"
 # Main menu pages
 [[params.menu]]
 name = "me"
-url = "/"
+url = ""
 
 [[params.menu]]
 name = "my-games"
-url = "/my-games"
+url = "my-games"
 
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 # Giscus comments
-[params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
-categoryid = "categoryId"
-mapping = "pathname"
-theme = "preferred_color_scheme"
+# [params.giscus]
+# enable = false
+# repo = "user/repo"
+# repoid = "repoId"
+# category = "General"
+# categoryid = "categoryId"
+# mapping = "pathname"
+# theme = "preferred_color_scheme"
