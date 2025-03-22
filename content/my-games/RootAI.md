@@ -8,7 +8,7 @@ readTime: true
 autonumber: true
 math: true
 tags: ["video-game", "board-game", "research", "Pygame", "Python"]
-showTags: false
+showTags: true
 hideBackToTop: false
 ---
 
@@ -105,4 +105,4 @@ Then it picks the best action by looking at the results.
 Read more at [Wikipedia: Monte Carlo tree search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search).
 
 ## Gallery
-{{< image-gallery gallery_dir="/image/my-games/RootAI" >}}
+{{< image-gallery gallery_dir="/image/my-games/RootAI" show_image_title="false" >}}
