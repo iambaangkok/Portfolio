@@ -1,6 +1,7 @@
 ---
 title: "RootAI"
 date: "2024-03-01"
+rank: 4
 summary: "A non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame 'Root.'"
 description: "An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes."
 toc: true
@@ -17,13 +18,13 @@ hideBackToTop: false
 
 ## About
 
-RootAI is a non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame "Root." It is the final project of my bachelor's degree. We experimentd by creating various different agents, then **running multiple battles** between them. One *best* AI agent for each faction were found. They were able to play **as good as an experienced human*** (according to Reddit and our own experience), while using **reasonable*** thinking time.
+**RootAI** is a non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame "Root." It is the final project of my bachelor's degree. We experimentd by creating various different agents, then **running multiple battles** between them. One *best* AI agent for each faction were found. They were able to play **as good as an experienced human*** (according to Reddit and our own experience), while using **reasonable*** thinking time.
 
 RootAI is set in the scenario of a 2 faction game — **Marquise de Cat** vs **Eyrie Dynasties**.
 
 ![1742403391551](/image/my-games/RootAI/1742403391551.png)
 
-* **See** RootAI on [GitHub](https://github.com/iambaangkok/RootAI)
+* **See** RootAI's source code on [GitHub](https://github.com/iambaangkok/RootAI)
 
 ## Running the game
 

@@ -1,6 +1,7 @@
 ---
-title: Coolant!
+title: Coolant! - Playable in Browser
 date: 2022-04-01
+rank: 1
 summary: An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes.
 description: An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes.
 toc: true
@@ -27,7 +28,7 @@ But that is not so easy because when the Coolant spawns, some **inter-dimensiona
 
 ## About
 
-Coolant! is a of Ludum Dare 50 game jam; with the theme *Delay the inevitable* . It is a submission in the *compo* category (competive with rankings). All the code and assets in the game were made from scratch in 48 hours by myself.
+**Coolant!** is a of Ludum Dare 50 game jam; with the theme *Delay the inevitable* . It is a submission in the *compo* category (competive with rankings). All the code and assets in the game were made from scratch in 48 hours by myself.
 
 * **Play** Coolant! on [itch.io](https://iambaangkok.itch.io/coolant)
 <iframe frameborder="0" src="https://itch.io/embed/1468379" width="552" height="167"><a href="https://iambaangkok.itch.io/coolant">Coolant! by iambaangkok</a></iframe>

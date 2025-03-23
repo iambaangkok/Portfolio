@@ -16,7 +16,7 @@
       <description>A non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame &amp;lsquo;Root.&amp;rsquo;</description>
     </item>
     <item>
-      <title>Coolant!</title>
+      <title>Coolant! - Playable in Browser</title>
       <link>https://iambaangkok.github.io/Portfolio/my-games/coolant/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://iambaangkok.github.io/Portfolio/my-games/coolant/</guid>
@@ -28,6 +28,13 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://iambaangkok.github.io/Portfolio/my-games/caren/</guid>
       <description>A battle simulator between antiviruses and viruses.</description>
+    </item>
+    <item>
+      <title>Not-Tamagotchi</title>
+      <link>https://iambaangkok.github.io/Portfolio/my-games/not-tamagotchi/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://iambaangkok.github.io/Portfolio/my-games/not-tamagotchi/</guid>
+      <description>A simple virtual pet simulator that will accompany you while you work on other things in your computer.</description>
     </item>
   </channel>
 </rss>

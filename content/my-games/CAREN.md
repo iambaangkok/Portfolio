@@ -1,6 +1,7 @@
 ---
 title: C.A.R.E.N.
 date: 2022-03-01
+rank: 3
 summary: A battle simulator between antiviruses and viruses.
 description: 
 toc: true
@@ -28,7 +29,7 @@ It is a course project therefore there are some specs that we must follow, like 
 It's like those games where you can ***"code your units"***.
 
 
-* **See** C.A.R.E.N. on [GitHub](https://github.com/iambaangkok/CPE200-Project-CAREN)
+* **See** C.A.R.E.N.'s source code on [GitHub](https://github.com/iambaangkok/CPE200-Project-CAREN)
 
 ### The Units
 

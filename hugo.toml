@@ -32,7 +32,7 @@ homeCollectionTitle = 'My Games / Boardgames / etc.'
 homeCollection = 'my-games'
 
 # Lists parameters
-paginationSize = 100
+paginationSize = 10
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
