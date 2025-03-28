@@ -1,6 +1,6 @@
 ---
 title: Coolant! - Playable in Browser
-date: 2022-04-01
+date: 2022-04-03
 rank: 1
 summary: An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes.
 description: An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes.

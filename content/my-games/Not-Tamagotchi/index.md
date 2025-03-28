@@ -1,6 +1,6 @@
 ---
 title: Not-Tamagotchi
-date: 2021-04-01
+date: 2021-04-04
 rank: 2
 summary: A simple virtual pet simulator that will accompany you while you work on other things in your computer.
 description: A simple virtual pet simulator that will accompany you while you work on other things in your computer.

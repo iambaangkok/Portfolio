@@ -1,7 +1,7 @@
 ---
 title: "RootAI"
-date: "2024-03-01"
-rank: 4
+date: 2024-03-29
+rank: 5
 summary: "A non-neural network artificial intelligence ( AI ) system that is capable of playing the boardgame 'Root.'"
 description: "An arena shooter game where you must keep the reactor alive by collecting coolants around the arena while surviving the invasion of lava slimes."
 toc: true
@@ -24,6 +24,7 @@ RootAI is set in the scenario of a 2 faction game — **Marquise de Cat** vs **E
 
 ![1742403391551](/image/my-games/RootAI/1742403391551.png)
 
+* **Download & Play(?) / Run** RootAI on [GitHub](https://github.com/iambaangkok/RootAI/releases/tag/v1.0.0)
 * **See** RootAI's source code on [GitHub](https://github.com/iambaangkok/RootAI)
 
 ## Running the game
