@@ -65,9 +65,9 @@ url = ""
 name = "my-games"
 url = "my-games"
 
-# [[params.menu]]
-# name = "boardgames"
-# url = "boardgames"
+[[params.menu]]
+name = "boardgames"
+url = "boardgames"
 
 [[params.menu]]
 name = "shaders"
